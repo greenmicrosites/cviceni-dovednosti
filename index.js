@@ -1,4 +1,4 @@
-// funkční - jedno tlačítko
+// funkční, ale 3x to same
 
 const HTMLskillValueEl = document.querySelector("#skill1 .skill__value")
 const HTMLProgressEl = document.querySelector("#skill1 .skill__progress")
