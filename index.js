@@ -50,8 +50,6 @@ JSskillbuttonEl.addEventListener('click', () => {
 //     const ProgressEl = document.querySelector(skill + ".skill__progress")
 //     const skillbuttonEl = document.querySelector(skill + "button")
 
-//     skillValueEl.innerHTML = "test"
-
 //     skillbuttonEl.addEventListener('click', () => {
 //         const level = prompt("Zadej svoji úroveň dovedností v procentech:")
 //         if (level > 0 && level < 101) {
